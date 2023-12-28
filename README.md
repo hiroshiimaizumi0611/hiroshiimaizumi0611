@@ -1,3 +1,30 @@
+## Profile🙇‍♂️
+### Language
+- Java
+- C#
+- JavaScript
+- TypeScript
+
+### Framework
+- Spring Framework
+- .Net Core
+- Gin
+- Spring Framework
+- Apache Struts2
+
+### Library
+- React
+- Vue.js
+- Bootstrap
+- Tailwind CSS
+
+### Others
+- AWS
+- Azure
+- GitHub Actions
+- Docker
+- OpenAI APi
+
 <p align="left">
   <a href="https://github.com/hiroshiimaizumi">
     <img height="20" src="https://komarev.com/ghpvc/?username=hiroshiimaizumi" />
