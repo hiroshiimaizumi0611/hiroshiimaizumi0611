@@ -8,19 +8,19 @@
 ### Framework
 - Spring Framework
 - .Net Core
-- Gin
-- Spring Framework
-- Apache Struts2
+- Vue.js
 
 ### Library
 - React
-- Vue.js
 - Bootstrap
 - Tailwind CSS
+- Material UI
 
 ### Others
 - AWS
 - Azure
+- MySQL
+- PostgreSQL
 - GitHub Actions
 - Docker
 - OpenAI APi
