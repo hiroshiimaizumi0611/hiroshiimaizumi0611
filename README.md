@@ -8,13 +8,18 @@
 ### Framework
 - Spring Framework
 - .Net Core
+- Next.js
 - Vue.js
+- Nuxt.js
 
 ### Library
 - React
 - Bootstrap
 - Tailwind CSS
 - Material UI
+- shadcn/ui
+- Prisma
+- Drizzle
 
 ### Others
 - AWS
