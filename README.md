@@ -23,6 +23,7 @@
 
 ### Others
 - AWS
+- AWS CDK
 - Azure
 - MySQL
 - PostgreSQL
